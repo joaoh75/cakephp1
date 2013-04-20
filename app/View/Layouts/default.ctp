@@ -46,9 +46,9 @@ $cakeDescription = __d('cake_dev', 'CakePHP: the rapid development php framework
 			<div id="menu">
 				<ul>
 					<li><a href="/">Inicio</a></li>
-					<li><a href="/pages/embreve">Cadastre-se</a></li>
+					<li><a href="/cadastre-se">Cadastre-se</a></li>
 					<li><a href="/pages/mapa">Localização</a></li>
-					<li><a href="/pages/embreve">Contato</a></li>
+					<li><a href="#">Contato</a></li>
 				</ul>
 			</div>	
 		</div>

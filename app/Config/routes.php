@@ -32,6 +32,8 @@
  */
 	Router::connect('/pages/*', array('controller' => 'pages', 'action' => 'display'));
 	Router::connect('/mapa/', array('controller' => 'pages', 'action' => 'mapa'));
+	Router::connect('/cadastre-se', array('controller' => 'inscritos', 'action' => 'inscrever'));
+	Router::connect('/inscricao/', array('controller' => 'pages', 'action' => 'inscricao'));
 /**
  * Load all plugin routes. See the CakePlugin documentation on
  * how to customize the loading of plugin routes.
